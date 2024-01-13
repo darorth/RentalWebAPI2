@@ -31,3 +31,4 @@
 /Users/macbook/backend/dotnet/WebApi/RentalWebAPI2/obj/Debug/net8.0/RentalWebAPI2.pdb
 /Users/macbook/backend/dotnet/WebApi/RentalWebAPI2/obj/Debug/net8.0/RentalWebAPI2.genruntimeconfig.cache
 /Users/macbook/backend/dotnet/WebApi/RentalWebAPI2/obj/Debug/net8.0/ref/RentalWebAPI2.dll
+/Users/macbook/backend/dotnet/WebApi/RentalWebAPI2/obj/Debug/net8.0/RentalWebAPI2.sourcelink.json
